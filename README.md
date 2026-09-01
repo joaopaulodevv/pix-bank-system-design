@@ -11,7 +11,7 @@ explicit non-functional requirements, not to ship a product.
 
 ## Architecture
 
-![Architecture diagram](./docs/architecture.png)
+![Architecture diagram](./architecture.png)
 
 **Legend:** blue boxes are services, green pipes are Kafka brokers, purple boxes are
 workers and CDCs, red boxes are external APIs. The API gateway and all blue services sit
